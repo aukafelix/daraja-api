@@ -1,0 +1,16 @@
+{
+    "name": "aukafelix/daraja-api",
+    "description": "Building an M-Pesa Daraja library will allow developers to easily integrate M-Pesa payment functionalities into their PHP applications.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Aukafelix\\DarajaApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felix Auka"
+        }
+    ],
+    "require": {}
+}
